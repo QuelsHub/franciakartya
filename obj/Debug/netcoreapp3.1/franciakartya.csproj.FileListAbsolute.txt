@@ -1,0 +1,13 @@
+C:\Users\Root\source\repos\franciakartya\franciakartya\bin\Debug\netcoreapp3.1\franciakartya.exe
+C:\Users\Root\source\repos\franciakartya\franciakartya\bin\Debug\netcoreapp3.1\franciakartya.deps.json
+C:\Users\Root\source\repos\franciakartya\franciakartya\bin\Debug\netcoreapp3.1\franciakartya.runtimeconfig.json
+C:\Users\Root\source\repos\franciakartya\franciakartya\bin\Debug\netcoreapp3.1\franciakartya.runtimeconfig.dev.json
+C:\Users\Root\source\repos\franciakartya\franciakartya\bin\Debug\netcoreapp3.1\franciakartya.dll
+C:\Users\Root\source\repos\franciakartya\franciakartya\bin\Debug\netcoreapp3.1\franciakartya.pdb
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.AssemblyInfo.cs
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.dll
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.pdb
+C:\Users\Root\source\repos\franciakartya\franciakartya\obj\Debug\netcoreapp3.1\franciakartya.genruntimeconfig.cache
