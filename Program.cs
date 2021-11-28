@@ -70,7 +70,7 @@ namespace franciakartya
             //Keverés
             string[] shuffled = Deck.OrderBy(c => random.Next()).ToArray();
 
-            Console.WriteLine("A megkevert pakli:\n");
+            Console.WriteLine("\nA megkevert pakli:\n");
 
             counter = 0;
             
